@@ -1,5 +1,7 @@
-# vue-date-range-picker
-A vue component using Bootstrap 4 styles for date range selection
+# IT'S NOT WORK VERSION YET !!!
+
+# vue3-date-range-picker
+A vue3 component using Bootstrap 4 styles for date range selection
 
 ![Vue-Treeselect Screenshot](https://raw.githubusercontent.com/Owumaro/vue-date-range-picker/master/screenshot.png)
 
@@ -16,7 +18,7 @@ A vue component using Bootstrap 4 styles for date range selection
 ## Installation
 
 ```
-npm install --save @owumaro/vue-date-range-picker
+npm install --save @vnucka/vue-date-range-picker
 ```
 
 ## Usage
@@ -26,7 +28,7 @@ npm install --save @owumaro/vue-date-range-picker
 #### JavaScript
 ```js
 // Import the component
-import DateRangePicker from '@owumaro/vue-date-range-picker'
+import DateRangePicker from '@vnucka/vue-date-range-picker'
 
 export default {
   // Register the component
